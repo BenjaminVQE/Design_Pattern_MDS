@@ -4,11 +4,11 @@
 
 - [Factory Method](FactoryMethod/explications.md) : [Exemple](FactoryMethod/exemple.php)
 - [Singleton](Singleton/explications.md) : [Exemple](Singleton/exemple.php)
+- [Builder](Builder/explications.md) : [Exemple](Builder/exemple.php)
 
 ## Structure
 
 - [Adapter](Adapter/explications.md) : [Exemple](Adapter/exemple.php)
-- [Bridge](Bridge/explications.md) : [Exemple](Bridge/exemple.php)
 - [Decorator](Decorator/explications.md) : [Exemple](Decorator/exemple.php)
 
 ## Comportement
