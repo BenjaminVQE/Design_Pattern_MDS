@@ -15,3 +15,4 @@
 
 - [State](State/explications.md) : [Exemple](State/exemple.php)
 - [Observer](Observer/explications.md) : [Exemple](Observer/exemple.php)
+- [Strategy](Strategy/explications.md) : [Exemple](Strategy/exemple.php)

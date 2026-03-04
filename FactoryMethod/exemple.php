@@ -1,7 +1,6 @@
 <?php
 // MAUVAISE PRATIQUE :
 
-// MAUVAISE PRATIQUE :
 // (présente mais pas utilisée dans la version finale)
 /*
 class CoinService
